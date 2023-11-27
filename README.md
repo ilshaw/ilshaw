@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILSHAW&theme=github_dark&layout=compact)-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ILSHAW" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ILSHAW&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ILSHAW" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ILSHAW&layout=compact&theme=github_dark" />
 </a>
