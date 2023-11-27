@@ -13,7 +13,7 @@
 
 <div>
   <div>
-    <img height="241" width="846" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ILSHAW&theme=nord_dark">
+    <img height="242" width="846" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ILSHAW&theme=nord_dark">
   </div>
   <div>
     <img height="247" width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ILSHAW&theme=nord_dark">
