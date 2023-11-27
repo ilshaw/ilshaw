@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ILSHAW&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=ILSHAW&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILSHAW&theme=github_dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILSHAW&theme=github_dark&layout=compact)-->
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ILSHAW&theme=github_dark&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ILSHAW" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ILSHAW&layout=compact&langs_count=8&card_width=320" />
+</a>
