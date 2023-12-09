@@ -11,6 +11,6 @@
     <img height="248" width="421" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ILSHAW&utcOffset=3&theme=dark">
   </a>
   <a>
-    <img width="846" src="https://github-readme-stats.vercel.app/api/wakatime?username=ilshaw&layout=compact&theme=dark">
+    <img width="846" src="https://github-readme-stats.vercel.app/api/wakatime?username=ilshaw&layout=compact&hide_border=true&theme=dark">
   </a>
 </a>
