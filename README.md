@@ -8,9 +8,9 @@
   </a>
   <a href="https://github.com/ilshaw">
     <img height="248" width="421" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ILSHAW&theme=dark">
-    <img height="248" width="421" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ILSHAW&theme=dark&utcOffset=3">
+    <img height="248" width="421" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ILSHAW&utcOffset=3&theme=dark">
   </a>
   <a>
-    <img height="242" width="846" src="https://github-readme-stats.vercel.app/api/wakatime?username=ilshaw&layout=compact">
+    <img width="846" src="https://github-readme-stats.vercel.app/api/wakatime?username=ilshaw&layout=compact&theme=dark">
   </a>
 </a>
